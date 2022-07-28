@@ -16,7 +16,7 @@ Implemente um sistema  que faça   o CRUD de um banco na estrutura abaixo:
 
 
 
-<h5>Obs: é possível utilizar o BD da sua preferência ou H2 (em memória).</h5>
+<h5>Obs: é possível utilizar o BD SQL da sua preferência ou H2 (em memória).</h5>
 
 <h5>Links auxiliares:</h5>
 
